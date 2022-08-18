@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/c1-mini-front/static/css/main.48b9bd69.css",
+    "main.js": "/c1-mini-front/static/js/main.9c5d0131.js",
+    "index.html": "/c1-mini-front/index.html",
+    "main.48b9bd69.css.map": "/c1-mini-front/static/css/main.48b9bd69.css.map",
+    "main.9c5d0131.js.map": "/c1-mini-front/static/js/main.9c5d0131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48b9bd69.css",
+    "static/js/main.9c5d0131.js"
+  ]
+}
